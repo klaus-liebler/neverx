@@ -1,0 +1,13 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+BZ2,Buzzer,Buzzer_12x9.5RM6.6,145.0,-142.0,0.0,top
+J1,DB1,M12-5,134.5,-45.5,0.0,top
+J2,DB1,M12-5,159.0,-45.5,0.0,top
+J3,DB1,M12-5,134.5,-70.0,0.0,top
+J4,DB1,M12-5,159.0,-70.1,0.0,top
+J5,DB1,M12-5,134.5,-94.5,0.0,top
+J6,DB1,M12-5,159.0,-94.5,0.0,top
+R1,k1,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,125.0,-138.0,90.0,top
+SW1,VAL,SW_PUSH_6mm,134.0,-142.0,90.0,top
+SW2,CONF,SW_PUSH_6mm,156.0,-142.0,90.0,top
+U1,LilyGO_T-SIM7080G-S3,LilyGO_T-SIM7080G-S3,106.9,-123.3,180.0,top
+U3,IPS_240_240,IPS_240_240_1.3,128.25,-120.5,90.0,top
