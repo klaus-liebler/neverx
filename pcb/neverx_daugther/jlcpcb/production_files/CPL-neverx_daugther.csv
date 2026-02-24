@@ -6,15 +6,4 @@ C4,u1,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,112.3,-107.7,180.0,top
 C5,10u,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,112.3,-109.7,180.0,top
 C6,u1,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,109.4,-108.7,-90.0,top
 C7,u1,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,117.6,-108.4,90.0,top
-J1,IN,M12-5,100.0,-100.0,0.0,top
-J2,UL,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,122.8,-94.5,90.0,bottom
-J3,UR,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,116.0,-94.5,90.0,bottom
-J4,LL,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,121.775,-105.4,270.0,bottom
-J5,LR,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,114.975,-105.4,270.0,bottom
-L1,3u3,L_0805_2012Metric_Pad1.15x1.40mm_HandSolder,112.7,-104.8,90.0,top
-Q1,BC807,SOT-23_Handsoldering,106.9,-92.8,90.0,bottom
-R1,20k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,112.7,-101.1,90.0,top
-R2,8k2,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,112.7,-97.4,90.0,top
-R3,k1,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,119.6,-108.4,90.0,top
-R4,k1,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,119.2,-101.5,90.0,top
 U1,HX711,SOIC-16_3.9x9.9mm_P1.27mm,108.1,-104.8,0.0,bottom
